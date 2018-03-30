@@ -5,7 +5,10 @@
 </head>
 <body>
 <h1>Hello World</h1>
-<p>This is Brian's work</p>
+<<<<<<< HEAD
 <p>This is person A work! HURRAY</p>
+=======
+<p>This is Brian's work</p>
+>>>>>>> a06cf752cce05308a99480d30b1f4b408edcba2b
 </body>
 </html>
